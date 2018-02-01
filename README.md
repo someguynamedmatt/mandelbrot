@@ -1,5 +1,10 @@
 # Mandelbrot in Rust
+> Taken from Chapter 2 of "Programming Rust" (O'Reilly 2018)
 ____
+
+This demonstrates concurrency in Rust, as well as a good intro into some common highlights of the language, moving, borrowing, and more. The program requires four command-line arguments be passed to it: file name (and location, e.g. ~/Pictures/mandel.png), bounds (image size), beginning point (upper left), and beginning point (lower right).
+
+
 
 To run from the command line:
 - `cargo build --release`
