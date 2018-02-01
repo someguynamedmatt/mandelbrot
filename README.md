@@ -1,1 +1,1 @@
-#Mandelbrot in Rust
+# Mandelbrot in Rust
